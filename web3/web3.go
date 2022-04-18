@@ -39,9 +39,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alanchchen/web3go/common"
-	"github.com/alanchchen/web3go/provider"
-	"github.com/tonnerre/golang-go.crypto/sha3"
+	"github.com/yangyuan6/web3go/common"
+	"github.com/yangyuan6/web3go/provider"
+	"github.com/33cn/chain33/common/crypto/sha3"
 )
 
 var (

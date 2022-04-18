@@ -33,9 +33,9 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/alanchchen/web3go/provider"
-	"github.com/alanchchen/web3go/rpc"
-	"github.com/alanchchen/web3go/web3"
+	"github.com/yangyuan6/web3go/provider"
+	"github.com/yangyuan6/web3go/rpc"
+	"github.com/yangyuan6/web3go/web3"
 )
 
 var hostname = flag.String("hostname", "localhost", "The ethereum client RPC host")

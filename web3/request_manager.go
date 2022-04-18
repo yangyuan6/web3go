@@ -30,8 +30,8 @@
 package web3
 
 import (
-	"github.com/alanchchen/web3go/provider"
-	"github.com/alanchchen/web3go/rpc"
+	"github.com/yangyuan6/web3go/provider"
+	"github.com/yangyuan6/web3go/rpc"
 )
 
 // requestManager is responsible for passing messages to providers
